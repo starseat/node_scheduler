@@ -1,0 +1,25 @@
+{
+  "name": "node_scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starseat/node_scheduler.git"
+  },
+  "keywords": [
+    "node-scheduler"
+  ],
+  "author": "jw.lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starseat/node_scheduler/issues"
+  },
+  "homepage": "https://github.com/starseat/node_scheduler#readme",
+  "dependencies": {
+    "node-schedule": "^2.1.0"
+  }
+}
